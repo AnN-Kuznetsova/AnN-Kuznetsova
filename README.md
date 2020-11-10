@@ -11,6 +11,8 @@
   <img align="left" alt="Anna`s e-mail" width="40px" src="https://raw.githubusercontent.com/AnN-Kuznetsova/AnN-Kuznetsova/main/img/icon/icon-email.svg" />
 </a>
 
+<br/><br/>
+
 
 ### Я Анна и я люблю Frontend!
 Frontend для меня - это воплощение моей сущности, симбиоз моего внутреннего художника и внешнего программиста. Мне нравится создавать красивые веб-продукты, используя лучшие практики и современные технологии.
