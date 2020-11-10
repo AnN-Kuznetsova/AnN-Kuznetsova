@@ -1,5 +1,17 @@
 ## Привет!
 
+
+<a href="https://t.me/anyutka_kuz">
+  <img align="left" alt="Anna`s Telegram" width="40px" src="https://raw.githubusercontent.com/AnN-Kuznetsova/AnN-Kuznetsova/main/img/icon/icon-telegram.svg" />
+</a>
+<a href="Skype:anjutka_kuz?chat">
+  <img align="left" alt="Anna`s Skype" width="40px" src="https://raw.githubusercontent.com/AnN-Kuznetsova/AnN-Kuznetsova/main/img/icon/icon-skype.svg" />
+</a>
+<a href="mailto:akimova_anna_25@mail.ru">
+  <img align="left" alt="Anna`s e-mail" width="40px" src="https://raw.githubusercontent.com/AnN-Kuznetsova/AnN-Kuznetsova/main/img/icon/icon-email.svg" />
+</a>
+
+
 ### Я Анна и я люблю Frontend!
 Frontend для меня - это воплощение моей сущности, симбиоз моего внутреннего художника и внешнего программиста. Мне нравится создавать красивые веб-продукты, используя лучшие практики и современные технологии.
 
