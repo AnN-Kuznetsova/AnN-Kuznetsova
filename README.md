@@ -97,7 +97,7 @@ Frontend для меня - это воплощение моей сущности
     <td width="180" height="60">
       <a href="https://github.com/AnN-Kuznetsova/htmlacademy-mishka" target="_blank">Mishka</a>
 	</td>
-    <td>HTML5 / CSS3 / Sass / JavaScript / Gulp</td>
+    <td>HTML5 / CSS3 / Sass / JavaScript / Gulp / BEM</td>
   </tr>
   <tr>
     <td colspan="2">Адаптивный интернет-магазин игрушек ручной работы: сетка макета Flexbox, каталог товаров, интерактивная карта, форма заказа.</td>
@@ -113,7 +113,7 @@ Frontend для меня - это воплощение моей сущности
     <td width="180" height="60">
       <a href="https://github.com/AnN-Kuznetsova/htmlacademy-cat-energy" target="_blank">Cat Energy</a>
 	</td>
-    <td>HTML5 / CSS3 / Sass / JavaScript / Gulp</td>
+    <td>HTML5 / CSS3 / Sass / JavaScript / Gulp / BEM</td>
   </tr>
   <tr>
     <td colspan="2">Адаптивный интернет-магазин кормов для кошек: сетка макета Flexbox, каталог товаров, интерактивная карта, форма подбора питания.</td>
