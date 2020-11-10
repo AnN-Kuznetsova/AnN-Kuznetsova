@@ -4,9 +4,6 @@
 <a href="https://t.me/anyutka_kuz">
   <img align="left" alt="Anna`s Telegram" width="35px" src="https://raw.githubusercontent.com/AnN-Kuznetsova/AnN-Kuznetsova/main/img/icon/icon-telegram.svg" />
 </a>
-<a href="Skype:anjutka_kuz?chat">
-  <img align="left" alt="Anna`s Skype" width="35px" src="https://raw.githubusercontent.com/AnN-Kuznetsova/AnN-Kuznetsova/main/img/icon/icon-skype.svg" />
-</a>
 <a href="mailto:akimova_anna_25@mail.ru">
   <img align="left" alt="Anna`s e-mail" width="35px" src="https://raw.githubusercontent.com/AnN-Kuznetsova/AnN-Kuznetsova/main/img/icon/icon-email.svg" />
 </a>
