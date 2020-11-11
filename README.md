@@ -22,7 +22,8 @@ Frontend для меня - это воплощение моей сущности
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
-- **Graphic editors:** Adobe Illustrator, Adobe Photoshop.
+- **Graphic editors:** Adobe Illustrator, Adobe Photoshop;
+- **Pixel Perfect**.
 
 
 ### 💻 Проекты:
