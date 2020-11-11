@@ -23,6 +23,7 @@ Frontend для меня - это воплощение моей сущности
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
 - **Graphic editors:** Adobe Illustrator, Adobe Photoshop;
+- **BEM**;
 - **Pixel Perfect**.
 
 
